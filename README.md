@@ -10,4 +10,4 @@
 
 Список виджетов:
 
-1П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/01_brosok_kamnya.ipynb
+1П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/01_brosok_kamnya.ipynb
