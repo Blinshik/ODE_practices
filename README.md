@@ -11,3 +11,9 @@
 Список виджетов:
 
 1П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/01_brosok_kamnya.ipynb
+
+2П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/02b_sapsan.ipynb
+2П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/02_forma_zerkala.ipynb
+
+
+
