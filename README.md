@@ -16,5 +16,6 @@
 
 2П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/02_forma_zerkala.ipynb
 
+3П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/03_sputnik.ipynb
 
 
