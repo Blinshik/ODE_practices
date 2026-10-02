@@ -18,4 +18,8 @@
 
 3П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/03_sputnik.ipynb
 
+4П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/04_zdanie.ipynb
+
+
+
 
