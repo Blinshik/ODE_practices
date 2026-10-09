@@ -20,6 +20,10 @@
 
 4П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/04_zdanie.ipynb
 
+5П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/05_potentsial.ipynb
+
+
+
 
 
 
