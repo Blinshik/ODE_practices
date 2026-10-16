@@ -24,6 +24,11 @@
 
 6П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/06_energiya.ipynb
 
+6Пб: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/06b_izokliny_3d.ipynb
+
+
+
+
 
 
 
