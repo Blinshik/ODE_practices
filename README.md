@@ -28,6 +28,12 @@
 
 7П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/07_zatukhanie.ipynb
 
+9П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/09_green.ipynb
+
+10П: https://colab.research.google.com/github/Blinshik/ODE_practices/blob/main/Vidgets/10_phase_portraits.ipynb
+
+
+
 
 
 
